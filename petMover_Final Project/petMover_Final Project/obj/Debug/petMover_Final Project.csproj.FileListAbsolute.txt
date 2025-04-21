@@ -1,0 +1,27 @@
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\bin\Debug\petMover_Final Project.exe.config
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\bin\Debug\petMover_Final Project.exe
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\bin\Debug\petMover_Final Project.pdb
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.FrmList.resources
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.FrmMain.resources
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.Properties.Resources.resources
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final Project.csproj.GenerateResource.cache
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final Project.exe
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final Project.pdb
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\bin\Debug\DbSalesPurchasing.dll
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\bin\Debug\MySql.Data.dll
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\bin\Debug\MySql.Data.xml
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final Project.csproj.CopyComplete
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final Project.csproj.AssemblyReference.cache
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.FrmDetails.resources
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.FrmLogin.resources
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.FrmTransactionReport.resources
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.FrmTransaction.resources
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.FrmSalesClient.resources
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.FrmSalesCity.resources
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final Project.exe.config
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\bin\Debug\DbSalesPurchasing.pdb
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final Project.csproj.ResolveComReference.cache
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.FrmTransactionDisplay.resources
+C:\Users\Anthonius Evan\Documents\File-file Mata Kuliah\Semester 3\Database\Project\petMover_Final Project\petMover_Final Project\obj\Debug\petMover_Final_Project.FrmPayment.resources
